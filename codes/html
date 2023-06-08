@@ -1,1 +1,17 @@
+<!--Welcome to my source page!-->
+<!--If you're reading this, you're from the future, and you're probably wondering how I made this website.-->
+<!--In that case, feel free to refer to anything! Just remember to credit me if you feel inspired :D (wink wink)-->
+<!--Otherwise, you're here from a CTF. In which case, do have fun trying to figure out the flag!-->
+<!--In whatever case, if you have any questions, feel free to contact me via linkedin (https://www.linkedin.com/in/chua-yu-xuan/) or my work email (pengsatwork@gmail.com-->
+<!--Have fun! :D-->
 
+<!--This is the head of the website.-->
+<!-- Think of the <head> element as the brain of the page; you set the page title here, and link external stylesheets and JavaScript files for the extra style and pizzaz! It can be positioned or placed anywhere in your page, but I prefer my brain to be at the top! ;)-->
+<head>
+	<!--Title-->
+	<title>Yu Xuan's Website!'</title>
+	<!--Styles-->
+	
+	<!--JavaScript Links-->
+	
+</head>
