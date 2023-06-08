@@ -4,14 +4,19 @@
 <!--Otherwise, you're here from a CTF. In which case, do have fun trying to figure out the flag!-->
 <!--In whatever case, if you have any questions, feel free to contact me via linkedin (https://www.linkedin.com/in/chua-yu-xuan/) or my work email (pengsatwork@gmail.com-->
 <!--Have fun! :D-->
-
-<!--This is the head of the website.-->
-<!-- Think of the <head> element as the brain of the page; you set the page title here, and link external stylesheets and JavaScript files for the extra style and pizzaz! It can be positioned or placed anywhere in your page, but I prefer my brain to be at the top! ;)-->
 <head>
+	<!--This is the head of the website.-->
+	<!-- Think of the <head> element as the brain of the page; you set the page title here, and link external stylesheets and JavaScript files for the extra style and pizzaz! It can be positioned or placed anywhere in your page, but I prefer my brain to be at the top! ;)-->
+	<!--Meta-->
+	<meta charset="utf-8"> </meta>
+	<meta name="author" content="Yu Xuan"> </meta>
+	<meta name="description" content="Yu Xuan's Website!"> </meta>
+	<meta name="viewport" content="width=device-width, initial-scale=1"> </meta>
 	<!--Title-->
+	<!--This is what you will want to appear on the tab!-->
 	<title>Yu Xuan's Website!'</title>
 	<!--Styles-->
-	
-	<!--JavaScript Links-->
-	
+	<!--This allows you to make your website look pretty!-->
+	<styles></styles>
+	<!--JavaScript Links-->	
 </head>
