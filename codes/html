@@ -9,14 +9,19 @@
 	<!-- Think of the <head> element as the brain of the page; you set the page title here, and link external stylesheets and JavaScript files for the extra style and pizzaz! It can be positioned or placed anywhere in your page, but I prefer my brain to be at the top! ;)-->
 	<!--Meta-->
 	<meta charset="utf-8"> </meta>
+	<html lang="en"> </html>
 	<meta name="author" content="Yu Xuan"> </meta>
-	<meta name="description" content="Yu Xuan's Website!"> </meta>
+	<meta name="description" content="Embark on a captivating journey through this website and discover the incredible and ever-growing pursuits of an individual who is driven to make a positive impact on the world, one step at a time. Explore a expanding and diverse range of projects, experiments, and experiences, shared with genuine passion and the hope of inspiring others. Join in on this personal odyssey of innovation, learning, and self-discovery, as you witness the exciting milestones and meaningful moments along the way. Get ready to be inspired and motivated to embark on your own unique adventures!"> </meta>
 	<meta name="viewport" content="width=device-width, initial-scale=1"> </meta>
+	<meta name="keywords" content="Yu Xuan, Chua Yu Xuan, pengsies, Yu Xuan's Website, Chua Yu Xuan's Personal Website, Yu Xuan's Personal Website"> </meta>
+	<meta name="coverage" content="Worldwide"> </meta>
+
 	<!--Title-->
 	<!--This is what you will want to appear on the tab!-->
 	<title>Yu Xuan's Website!'</title>
 	<!--Styles-->
 	<!--This allows you to make your website look pretty!-->
-	<styles></styles>
+	<!--Tailwind-->
+	
 	<!--JavaScript Links-->	
 </head>
